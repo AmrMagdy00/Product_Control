@@ -1,0 +1,19 @@
+﻿@model MyApp.Models.Item
+
+@{
+    ViewData["Title"] = "Delete Product";
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center mt-5">
+    <h3 class="mb-4 text-center font-weight-bold">Are You Sure You Want To Delete [ @Model.Name ]?</h3>
+
+    <div class="d-flex justify-content-center">
+        <form asp-action="Delete" method="post" class="mr-3">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger px-4">Yes</button>
+        </form>
+        <a class="btn btn-secondary px-4" asp-action="Index">No</a>
+    </div>
+</div>
