@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6M98XBbzsLQ=",
+  "dgSpecHash": "bG/H6dvaNHU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SAGA\\Desktop\\New folder (2)\\Product_Control\\Product_Control\\Product_Control.csproj",
+  "projectFilePath": "C:\\Users\\SAGA\\source\\repos\\Product-Control\\Product-Control\\Product_Control\\Product_Control\\Product_Control\\Product_Control.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SAGA\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\SAGA\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
