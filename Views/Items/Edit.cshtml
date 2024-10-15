@@ -20,9 +20,10 @@
             <input asp-for="Price" type="number" class="form-control form-control-lg" id="Price" required />
         </div>
         <div class="form-group mb-3">
-            <label for="SerialNumber" class="font-weight-bold">Serial Number</label>
-            <input asp-for="SerialNumber.Name" type="text" class="form-control form-control-lg" id="SerialNumber" disabled />
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control form-control-lg font-weight-bold"></select>
         </div>
+
+
         <div class="form-group text-center">
             <button type="submit" class="btn btn-primary btn-lg px-5">Submit</button>
         </div>

@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAGA\\source\\repos\\Product-Control\\Product-Control\\Product_Control\\Product_Control\\Product_Control\\Product_Control.csproj",
+      "projectUniqueName": "C:\\Users\\SAGA\\Desktop\\New folder\\Product_Control-main\\Product_Control.csproj",
       "projectName": "Product_Control",
-      "projectPath": "C:\\Users\\SAGA\\source\\repos\\Product-Control\\Product-Control\\Product_Control\\Product_Control\\Product_Control\\Product_Control.csproj",
+      "projectPath": "C:\\Users\\SAGA\\Desktop\\New folder\\Product_Control-main\\Product_Control.csproj",
       "packagesPath": "C:\\Users\\SAGA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAGA\\source\\repos\\Product-Control\\Product-Control\\Product_Control\\Product_Control\\Product_Control\\obj\\",
+      "outputPath": "C:\\Users\\SAGA\\Desktop\\New folder\\Product_Control-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SAGA\\AppData\\Roaming\\NuGet\\NuGet.Config",
